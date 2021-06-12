@@ -1,19 +1,30 @@
 # Dust
-Mel
-
-# Character
-* **Real name:** Charlie Clark
+* Charlie Clark
 * The Doomed
-* Made a deal with deon for powers
+* Made a deal with devil for powers
+* Mel
 
-# Nemesis
+## Powers
+* Telekenisis
+* Memory Manipulation
+* Phsycic constructs
+
+## Appearance
+* Girl
+* Androdgynous
+* Part white part indigenous
+* Stares into distance - haunted eyes
+* Dark Navy, cape & hood. Long boots. Mask top half of face
+  * Had help to get costume
+
+## Nemesis/Backstory
 * **Superhero Name:** [Lure](Lure)
 * Dust was desperate to be a superhero, but wasn't born as one
 * Mentor - Told her how to get superpowers, was by getting her to sign deal with devil
 * They signed the deal themselves - delaying his own soul loss by feeding others
 * Dust wants to stop Lure from getting others to sign the contracts
-
-# Doom
+ 
+## Doom
 * Overexerting Herself
   * Trying to float below the radar of the demon she's made a deal with
   * Demon has lots of contracts
@@ -23,9 +34,6 @@ Mel
   * Fell out with mentor
   * Blood signing
 * Parents don't know she sold her soul. Parents just thought she grew into them
-
-# Sanctuary
-* 
 
 # Relationships
 * [Arlo Mavris](Arlo Mavris) Aide or assistant is crucial to defeating nemesis
@@ -40,20 +48,16 @@ Mel
     * She will die soon
     * She was dumb and signed a deal with the devil
   * Has a juxposition between wanting a kiss before she dies and not wanting to cause Faux pain of liking her then her dying
+* Believes team can help her defeat nemesis
 
-# Label Shifting
+## Hooks
+* + Mundane - [Arlo Mavris](Arlo Mavris) - To ask for empathy and mercy
+* + Saviour - [Sara Anderson](Sara Anderson) - To demand protection for innocents
+
+# Sanctuary
+* 
+
+## Notes
 * High Saviour
 * Low Superior
 
-# Notes
-* Girl
-* Androdgynous
-* Part white part indigenous
-* Stares into distance - haunted eyes
-* Dark Navy, cape & hood. Long boots. Mask top half of face
-  * Had help to get costume
-* Powers
-  * Telekenisis
-  * Memory Manipulation
-  * Phsycic constructs
-* Team can help her defeat nemesis

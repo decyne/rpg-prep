@@ -1,7 +1,19 @@
-# Character
+# <NAME>
 
-# Label Shifting
-* 
+## Powers
 * 
 
-# Notes
+## Appearance
+* 
+
+## Backstory
+* 
+
+## Relationships
+* 
+
+## Hooks
+* 
+ 
+## Notes
+* 

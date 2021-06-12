@@ -2,9 +2,9 @@
 
 ## Characters
 
-[Dust](Dust)
-[Faux](Faux)
-[Moss](Moss)
+[Dust/Charlie](Dust)
+[Faux/Punjabi](Faux)
+[Moss/Autumn](Moss)
 
 ## Villians
 
@@ -26,7 +26,7 @@
 [Willow Park High School](Willow Park High School)
 
 ## Sessions
-* [ ] [Session 0](Session 0)
+* [X] [Session 0](Session 0)
 * [ ] [Session 1](Session 1)
 * [ ] [Session 2](Session 2)
 * [ ] [Session 3](Session 3)

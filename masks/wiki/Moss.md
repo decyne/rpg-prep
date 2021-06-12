@@ -1,31 +1,29 @@
 # Moss
-Ian
-
-# Character
 * **Real Name:** Autumn Ang
 * Transformed
+
+## Powers
+* Plant Affinity
+* Inhuman Might
+
+## Appearance
 * South Asian Woman
-* Powers
-  * Plant Affinity
-    * Moss green skin
-    * Bigger, thick proportions like a tree trunch
-    * Hunched over, long arms like branches
-    * Just grew into it
-    * 6ft, but is just going to keep growing
-  * Inhuman Might
+* Moss green skin
+* Bigger, thick proportions like a tree trunch
+* Hunched over, long arms like branches
+* Just grew into it
+* 6ft, but is just going to keep growing
 * Blank eyes - white
+
+## Backstory
 * Used to be small, queit, normal
 * When puberty hit turned into a tree and powers manifested. Dormant gene
 * Normal parents
   * Doesn't feel like she's part of the family
 * Hides herself away by going into woods. But got real lonely with no-one to speak to
+
+## Relationships
 * Feels like the team is people like herself
-
-# Label Shifting
-* High Freak
-* Low Superior & Mundane
-
-# Relationships
 * [Sara Anderson](Sara Anderson) - Injured veteren
   * Legs blown off. Mechanical legs
   * Helping her understand her new powers
@@ -40,5 +38,11 @@ Ian
   * Moss at lowest point, [Dust](Dust) opened up to them about their doom
   * "You don't get to go and walk away in the forest, you get a chance to live your life"
   * "I don't have a chance to do things, but you do"
+
+## Hooks
+* + Saviour - [Sara Anderson](Sara Anderson) - To place responsibility
+* + Freak - [The Hammer](The Hammer) - To praise immense power and abilities
  
-# Notes
+## Notes
+* High Freak
+* Low Superior & Mundane
