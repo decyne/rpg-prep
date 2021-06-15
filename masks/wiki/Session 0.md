@@ -1,4 +1,4 @@
-[#](#) When our team first came together
+# When our team first came together
 * Team knew each other because they were the only ones to stay back and fight
   * Bonded when they were punished afterwards
 * Dangerous enemy:
