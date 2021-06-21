@@ -8,3 +8,8 @@
 * Summoning disks
 * Teleportation
 * Uncannily charismatic
+
+# Moves
+* Defend oneself with magical disk
+* Escape through a portal
+* Tempt mortal into contract

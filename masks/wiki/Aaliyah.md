@@ -6,3 +6,8 @@
 # Powers
 * Elemental Summoning
 * Minor elemental control
+
+# Moves
+* Summon [Elementor](Elementor)
+* Put herself in danger
+* Ask for help from Lure

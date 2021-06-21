@@ -8,7 +8,7 @@
 
 ## Villians
 
-* [ ] - [Professor Spectre](Professor Spectre)
+* [X] - [Professor Spectre](Professor Spectre)
 * [ ] - [Lure](Lure)
 
 ## NPCs
@@ -27,7 +27,7 @@
 
 ## Sessions
 * [X] [Session 0](Session 0)
-* [ ] [Session 1](Session 1)
+* [X] [Session 1](Session 1)
 * [ ] [Session 2](Session 2)
 * [ ] [Session 3](Session 3)
 
