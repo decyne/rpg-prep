@@ -1,5 +1,5 @@
 # Faux (Foe)
-* **Real Name:** Punjabi Ranjha
+* **Real Name:** Rajpal Ranjha
 * The Delinquint
 * Lachlan
 

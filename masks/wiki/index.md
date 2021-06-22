@@ -28,7 +28,7 @@
 ## Sessions
 * [X] [Session 0](Session 0)
 * [X] [Session 1](Session 1)
-* [ ] [Session 2](Session 2)
+* [X] [Session 2](Session 2)
 * [ ] [Session 3](Session 3)
 
 ## Templates

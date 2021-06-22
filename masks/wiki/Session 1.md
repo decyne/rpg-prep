@@ -15,6 +15,7 @@
 
 Going to WPHC (Willow Park Hardron Collider)
 
+* Research in WPHC did a lot of research on superheroes and use their power in technology
 * Prof spectre defeated
 * Charlie's parents didn't know she had power. Tells you she's a danger
 * Autumn gets told by Sara she acted like a hero. Calls her autumn to humanise her.
