@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T08:57:36.580Z" agent="5.0 (X11)" etag="8BslO76koCuLpaM97zc-" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T06:59:01.724Z" agent="5.0 (Windows)" etag="gud6W7A1bJ3x9I5dPNQX" version="15.4.1" type="github">
   <diagram id="KgzFzYW3JRcv5cXBahwz" name="Page-1">
-    <mxGraphModel dx="1108" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
         <mxCell id="0qpnmVagbFamdHzVR8-X-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;I&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="720" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFyQtC-OYI_YycXrSOeD-1" value="Find mystic to read their map 2/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sFyQtC-OYI_YycXrSOeD-1" value="Find mystic to read their map 3/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sFyQtC-OYI_YycXrSOeD-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Counter&#39;s Guild&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -148,13 +148,13 @@
         <mxCell id="sFyQtC-OYI_YycXrSOeD-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;IV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="-40" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFyQtC-OYI_YycXrSOeD-8" value="Gather data on Engineer guild failings 4/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sFyQtC-OYI_YycXrSOeD-8" value="Gather data on Engineer guild failings 7/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="-95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sFyQtC-OYI_YycXrSOeD-9" value="Stockpile weapons 3/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sFyQtC-OYI_YycXrSOeD-10" value="Capture Lost LEgion Warp drive 4/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sFyQtC-OYI_YycXrSOeD-10" value="Capture Lost LEgion Warp drive 6/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eAVqtPFcq18wmJxdQZ_S-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;The Space Between&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -175,7 +175,7 @@
         <mxCell id="eAVqtPFcq18wmJxdQZ_S-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;III&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="420" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7EXpZXi9Fp8Gn1IL8uCp-1" value="Spit out way creatures 2/6" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7EXpZXi9Fp8Gn1IL8uCp-1" value="Spit out way creatures 5/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
