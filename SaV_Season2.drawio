@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T08:28:36.960Z" agent="5.0 (X11)" etag="zR4b1YFXp7YEHc2gf3NR" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T07:35:59.893Z" agent="5.0 (X11)" etag="oStEKqOikGmLQj2_EiRu" version="16.5.3" type="github">
   <diagram id="KgzFzYW3JRcv5cXBahwz" name="Page-1">
-    <mxGraphModel dx="1673" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
         <mxCell id="65nMzep6q61FSym4G3b8-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;III&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="155" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65nMzep6q61FSym4G3b8-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Ghosts??&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="65nMzep6q61FSym4G3b8-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Ghosts&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="65nMzep6q61FSym4G3b8-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="250" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65nMzep6q61FSym4G3b8-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;II&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="65nMzep6q61FSym4G3b8-7" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;III&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65nMzep6q61FSym4G3b8-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#d5e8d4;jumpSize=13;strokeWidth=3;strokeColor=#009900;" parent="1" source="65nMzep6q61FSym4G3b8-8" target="65nMzep6q61FSym4G3b8-11" edge="1">
@@ -79,7 +79,7 @@
         <mxCell id="65nMzep6q61FSym4G3b8-33" style="edgeStyle=none;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#009900;strokeWidth=3;" parent="1" source="65nMzep6q61FSym4G3b8-18" target="65nMzep6q61FSym4G3b8-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="65nMzep6q61FSym4G3b8-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;-1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="65nMzep6q61FSym4G3b8-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;-2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="60" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65nMzep6q61FSym4G3b8-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;IV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="65nMzep6q61FSym4G3b8-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Independance of Holt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="65nMzep6q61FSym4G3b8-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="65nMzep6q61FSym4G3b8-24" value="-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="320" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65nMzep6q61FSym4G3b8-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;I&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -160,7 +160,7 @@
         <mxCell id="eAVqtPFcq18wmJxdQZ_S-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;The Space Between&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eAVqtPFcq18wmJxdQZ_S-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eAVqtPFcq18wmJxdQZ_S-2" value="-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="560" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eAVqtPFcq18wmJxdQZ_S-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;III&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -187,10 +187,10 @@
         <mxCell id="jUphkvpxN1a_65vW6VNi-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;I&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="-55" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jUphkvpxN1a_65vW6VNi-4" value="Full scale outbreak on Rin 6/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jUphkvpxN1a_65vW6VNi-4" value="Full scale outbreak on Rin 7/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jUphkvpxN1a_65vW6VNi-5" value="Establish mystic relay base on Amerath 1/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jUphkvpxN1a_65vW6VNi-5" value="Establish mystic relay base on Amerath 3/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jUphkvpxN1a_65vW6VNi-6" value="Create their own warp drive 7/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -198,6 +198,9 @@
         </mxCell>
         <mxCell id="jUphkvpxN1a_65vW6VNi-7" value="Undermine engineers guild with propaganda campaign 8/8" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="-95" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ud4R4yunSCTTUjRBT-VK-1" value="Establish comms with Way creature &quot;mastermind&quot; 3/8" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
