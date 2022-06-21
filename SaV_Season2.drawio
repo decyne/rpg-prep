@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T08:38:30.857Z" agent="5.0 (X11)" etag="JHjTiqOEnBnKBiLKTCNc" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T08:44:40.602Z" agent="5.0 (X11)" etag="MHNxihu9AHN5WP7RGZJ7" version="17.5.0" type="github">
   <diagram id="KgzFzYW3JRcv5cXBahwz" name="Page-1">
-    <mxGraphModel dx="2523" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="jUphkvpxN1a_65vW6VNi-4" value="Full scale outbreak on Warren 8/8" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="1190" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jUphkvpxN1a_65vW6VNi-5" value="Establish mystic relay base on Amerath 5/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jUphkvpxN1a_65vW6VNi-5" value="Establish mystic relay base on Amerath 5/6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jUphkvpxN1a_65vW6VNi-6" value="Create their own warp drive 8/8" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
@@ -214,29 +214,32 @@
         <mxCell id="AJGWU2kwTOXJ0wA7k7pf-3" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;III&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="20" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AJGWU2kwTOXJ0wA7k7pf-4" value="Commander Vorta finds Awe 0/6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="AJGWU2kwTOXJ0wA7k7pf-4" value="Commander Vorta finds Awe 0/6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AJGWU2kwTOXJ0wA7k7pf-5" value="Debt collectors want money" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="AJGWU2kwTOXJ0wA7k7pf-5" value="Debt collectors want money" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="395" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VbUb6Y0qFdcxulO0YNRA-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=8;" edge="1" parent="1">
+        <mxCell id="VbUb6Y0qFdcxulO0YNRA-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="390" as="sourcePoint" />
             <mxPoint x="1150" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VbUb6Y0qFdcxulO0YNRA-3" value="Destroy House Malklaith Warp Drive testing grounds 3/6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="VbUb6Y0qFdcxulO0YNRA-3" value="Destroy House Malklaith Warp Drive testing grounds 6/6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-10" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VbUb6Y0qFdcxulO0YNRA-4" value="Equip fleet with warp drives 3/8" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VbUb6Y0qFdcxulO0YNRA-4" value="Equip fleet with warp drives 8/8" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1190" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VbUb6Y0qFdcxulO0YNRA-5" value="Bargain with mastermind for deal to get bodies back 1/4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VbUb6Y0qFdcxulO0YNRA-5" value="Bargain with mastermind for deal to get bodies back 1/4" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="255" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VbUb6Y0qFdcxulO0YNRA-6" value="Expand into all of Rin 1/6" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="VbUb6Y0qFdcxulO0YNRA-6" value="Get through Lost Legion Blockade 4/6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0CUHPl9_aa_CJV_9S1gN-1" value="&lt;div&gt;House Malklaith vs Lost Legion War&lt;/div&gt;&lt;div&gt;- House Malklaith +1&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
